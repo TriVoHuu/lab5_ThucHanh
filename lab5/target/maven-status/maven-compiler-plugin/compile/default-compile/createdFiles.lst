@@ -1,0 +1,9 @@
+Servlets\AddServlet.class
+Servlets\DeleteServlet.class
+Servlets\LogoutServlet.class
+Utils\HibernateUtils.class
+Servlets\RegisterServlet.class
+Objects\Product.class
+Servlets\LoginServlet.class
+Servlets\IndexServlet.class
+Objects\Account.class
